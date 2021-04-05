@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently learning portworx <br>
+🔭 I’m currently working on my knowledge of portworx <br>
 🌱 I’m currently learning Go <br>
 💬 Ask me about Python
 
